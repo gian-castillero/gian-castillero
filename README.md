@@ -5,3 +5,14 @@ I'm a statistician and data scientist with a B.S. in Statistics and B.S. in Comp
 My work sits at the intersection of **statistical modeling**, **machine learning**, and **applied data science**, with a particular focus on sports analytics and business intelligence.
  
 ---
+## 🛠️ Technical Skills
+ 
+**Languages:** Python · R · SQL
+ 
+**ML & Statistics:** Regression · Classification · Clustering (k-means, PCA) · Bayesian Inference · Monte Carlo Sampling · CNNs · Transformers · NLP
+ 
+**Libraries & Frameworks:** scikit-learn · PyTorch · NumPy · pandas · tidyverse · lme4
+ 
+**Tools:** Power BI · Git · Excel · Wyscout
+ 
+---
